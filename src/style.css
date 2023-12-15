@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#footer {
+  transform: rotate(180deg);
+  display: flex;
+  justify-content: start;
+}
+#carta {
+  height: 500px;
+  width: 500px;
+}
